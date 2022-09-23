@@ -2,7 +2,7 @@
 
 ### 🌱 I’m currently learning: 
 - Python
-- HTML5
+- HTML
 - CSS
 - JavaScript
 
