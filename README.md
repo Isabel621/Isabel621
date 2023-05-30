@@ -5,6 +5,8 @@
 - HTML
 - CSS
 - JavaScript
+- PHP
+- Laravel
 
 ### 📫 How to reach me: 
 - [linkedin](https://www.linkedin.com/in/isabel-aprilia-56288421a/)
