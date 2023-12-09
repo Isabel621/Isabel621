@@ -9,7 +9,7 @@
 - Laravel
 
 ### 📫 How to reach me: 
-- [linkedin](https://www.linkedin.com/in/isabel-aprilia-56288421a/)
+- [linkedin](https://www.linkedin.com/in/isabel-aprilia-arasyah-rahmayati/)
 - [email](mailto:isabelaprilia0412@gmail.com)
 
 ### Stats:
