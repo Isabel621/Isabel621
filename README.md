@@ -1,5 +1,7 @@
 # Hi there 👋 , I'm Isabel
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Isabel621&label=Profile%20views&color=0e75b6&style=flat" alt="Isabel621" /> </p>
+
 ### 🌱 Tech Stack: 
 <code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
